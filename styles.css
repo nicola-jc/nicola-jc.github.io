@@ -3,7 +3,7 @@ header {
   }
   
   h1 {
-    font-family: 'Open Sans Condensed';font-size: 5.9vm;
+    font-family: 'Mulish';font-size: 5.9vm;
     text-align: center;
     margin-bottom: -18px;
    }
@@ -64,7 +64,7 @@ header {
   }
   
   h3 {
-    font-family: 'Open Sans Condensed';
+    font-family: 'Mulish';
     font-size: 24px;
     margin-bottom: 40px;
   }
@@ -80,7 +80,7 @@ header {
   }
   
   footer {
-    font-family: 'Open Sans Condensed';
+    font-family: 'Mulish';
     font-size: 22px;
     background-color: #454545;
     color: white;
