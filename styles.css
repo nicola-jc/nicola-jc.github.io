@@ -8,10 +8,10 @@ header {
     margin-bottom: -18px;
    }
     
-  #under-header {
+  /* #under-header {
     font-family: 'Raleway';font-size: 12px;
     text-align: center;
-  }
+  } */
   
   .nav-bar {
     background: #ff4d5b;
@@ -54,7 +54,7 @@ header {
   .image-text {
     text-align: center;
     margin-top: 90px;
-    margin-bottom: 60px;
+    /* margin-bottom: 60px; */
   }
   
   .col-sm {
